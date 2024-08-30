@@ -1,0 +1,1 @@
+It's about the funky page i want to build using HTML then CSS as i progress in learning
